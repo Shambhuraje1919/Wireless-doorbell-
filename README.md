@@ -10,7 +10,7 @@ Low power consumption
 
 Easy installation
 
-Working
+Working:-
 
 Pressing the button on the transmitter sends a wireless signal.
 The receiver detects the signal and activates the buzzer.
