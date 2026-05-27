@@ -4,8 +4,6 @@ A simple wireless doorbell system that triggers a buzzer remotely using wireless
 
 Features
 
-Wireless operation
-
 Low power consumption
 
 Easy installation
